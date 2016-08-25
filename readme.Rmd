@@ -1,0 +1,6 @@
+##Readme
+
+Väike harjutus, kuidas pythonit ja R-i koos kasutada. Teen järgnevat:
+
+	- tõmban alla riigiteenuste andmed, puhastan ja lemmatiseerin need ([skript](https://github.com/RRisto/Riigiteenused-word2vec/blob/master/Data%20processing.ipynb))
+	- word2vec mudeli tegemine ning visualiseerimine ([skript](https://github.com/RRisto/Riigiteenused-word2vec/blob/master/Riigiteenused%20word2vec%20.ipynb))
