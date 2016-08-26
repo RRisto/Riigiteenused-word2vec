@@ -2,5 +2,5 @@
 
 Väike harjutus, kuidas pythonit ja R-i koos kasutada ning samal ajal teha tutvust word2vec mudeliga. Teen järgnevat:
 
- - tõmban alla riigiteenuste andmed, puhastan ja lemmatiseerin need ([skript](https://github.com/RRisto/Riigiteenused-word2vec/blob/master/Data%20processing.ipynb)). Kasutan selleks Ri, kuna olen selles vilunum
+ - tõmban alla riigiteenuste andmed (nime ja kirjelduse), puhastan ja lemmatiseerin need ([skript](https://github.com/RRisto/Riigiteenused-word2vec/blob/master/Data%20processing.ipynb)). Kasutan selleks Ri, kuna olen selles vilunum
  - word2vec mudeli tegemine ning visualiseerimine ([skript](https://github.com/RRisto/Riigiteenused-word2vec/blob/master/Riigiteenused%20word2vec%20.ipynb)). Kasutan selleks pythonit, kuna pole samasugust paketti Rile leidnud
